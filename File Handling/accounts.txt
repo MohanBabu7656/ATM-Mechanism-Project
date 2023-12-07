@@ -1,0 +1,3 @@
+accName : Mohan , accNumber : 123456 , accType : savings , accBalance : 5000 , IFSCcode : Cnrb00006010 , CreditCard : 12345 , CVV : 653 , EXPdate : hjk455 , Pin : 7743
+accName : balaji , accNumber : 9014 , accType : savings , accBalance : 50000 , IFSCcode : ASDFGHJ , CreditCard : 12346 , CVV : 6525 , EXPdate : SDF , Pin : 7742
+accName : balu , accNumber : 1234234 , accType : savings , accBalance : 233434.0 , IFSCcode : ui233 , CreditCard : 1234567 , CVV : 234 , EXPdate : 12ee3 , Pin : 7741
